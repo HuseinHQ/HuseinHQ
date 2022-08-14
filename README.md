@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hello Everybody 👋
 
-<!--
-**HuseinHQ/HuseinHQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Muhammad Husein Al Hakim
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently studying on UPN Veteran Jawa Timur
+- 🌱 I’m currently learning Software Developement
+- 👯 I’m looking to collaborate on Github
+- 🤔 I’m looking for help with My project
+- 💬 Ask me about everything you want to know
+- 📫 How to reach me: Discord Husein#1050
+- 😄 Pronouns: Husein
+- ⚡ Fun fact: I'm 20 years old
