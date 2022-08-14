@@ -10,3 +10,10 @@ My name is Muhammad Husein Al Hakim
 - 📫 How to reach me: Discord Husein#1050
 - 😄 Pronouns: Husein
 - ⚡ Fun fact: I'm 20 years old
+
+<p align="left">
+<a href="https://github.com/huseinhq">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=huseinhq&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=huseinhq&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
