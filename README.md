@@ -3,7 +3,7 @@
 My name is Muhammad Husein Al Hakim
 
 - 🔭 I’m currently studying on UPN Veteran Jawa Timur
-- 🌱 I’m currently learning Web Developement
+- 🌱 I’m currently interested on Software Developement
 - 👯 I’m looking to collaborate on Github
 - 🤔 I’m looking for help with My project
 - 💬 Ask me about everything you want to know
