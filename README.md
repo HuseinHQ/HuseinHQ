@@ -19,7 +19,7 @@ My name is Muhammad Husein Al Hakim
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C729%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C731%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -62,16 +62,24 @@ Sunday                   194 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 hr 29 mins        ██████████████████░░░░░░░   70.23 % 
+TypeScript               14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+Bash                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+JSON                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+PHP                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 7 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+discussion-forum-react   1 hr                ████████████░░░░░░░░░░░░░   47.36 % 
+sandbox                  31 mins             ██████░░░░░░░░░░░░░░░░░░░   25.02 % 
+savart                   16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+strapi-graphing          10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+savart-web               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -91,5 +99,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/HuseinHQ/HuseinHQ/main/assets/bar_graph.png)
 
 
- Last Updated on 06/01/2025 17:18:36 UTC
+ Last Updated on 07/01/2025 17:18:28 UTC
 <!--END_SECTION:waka-->
