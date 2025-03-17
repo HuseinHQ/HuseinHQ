@@ -27,6 +27,8 @@ My name is Muhammad Husein Al Hakim
 
 > 📦 251.7 kB Used in GitHub's Storage 
  > 
+> 🏆 26 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 67 Public Repositories 
@@ -97,5 +99,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/HuseinHQ/HuseinHQ/main/assets/bar_graph.png)
 
 
- Last Updated on 16/03/2025 17:17:56 UTC
+ Last Updated on 17/03/2025 17:19:53 UTC
 <!--END_SECTION:waka-->
