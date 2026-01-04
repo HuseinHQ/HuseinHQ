@@ -19,6 +19,8 @@ My name is Muhammad Husein Al Hakim
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C883%20hrs%207%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -33,6 +35,45 @@ My name is Muhammad Husein Al Hakim
  > 
 > 🔑 6 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                578 commits         ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
+🌆 Daytime                1294 commits        ██████████████░░░░░░░░░░░   54.99 % 
+🌃 Evening                350 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+🌙 Night                  131 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   404 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
+Tuesday                  580 commits         ██████░░░░░░░░░░░░░░░░░░░   24.65 % 
+Wednesday                417 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
+Thursday                 394 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
+Friday                   296 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+Saturday                 80 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+Sunday                   182 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -50,5 +91,5 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/HuseinHQ/HuseinHQ/main/assets/bar_graph.png)
 
 
- Last Updated on 03/01/2026 17:08:08 UTC
+ Last Updated on 04/01/2026 17:08:38 UTC
 <!--END_SECTION:waka-->
