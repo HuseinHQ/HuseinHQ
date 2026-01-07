@@ -19,9 +19,9 @@ My name is Muhammad Husein Al Hakim
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C883%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C888%20hrs%2033%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -62,16 +62,24 @@ Sunday                   182 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               4 hrs 42 mins       ██████████████████████░░░   86.55 % 
+XML                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+PHP                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+JavaScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  5 hrs 26 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+webapp                   4 hrs 7 mins        ███████████████████░░░░░░   75.84 % 
+savart-apps              33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+savart-web-ui            25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+savart-web               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+savart-utility-frontend  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      5 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -91,5 +99,5 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/HuseinHQ/HuseinHQ/main/assets/bar_graph.png)
 
 
- Last Updated on 06/01/2026 17:12:32 UTC
+ Last Updated on 07/01/2026 17:13:17 UTC
 <!--END_SECTION:waka-->
