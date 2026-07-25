@@ -19,6 +19,8 @@ My name is Muhammad Husein Al Hakim
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C311%20hrs%2034%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -33,6 +35,54 @@ My name is Muhammad Husein Al Hakim
  > 
 > 🔑 6 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                595 commits         █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
+🌆 Daytime                1643 commits        ███████████████░░░░░░░░░░   60.43 % 
+🌃 Evening                350 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+🌙 Night                  131 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   440 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+Tuesday                  637 commits         ██████░░░░░░░░░░░░░░░░░░░   23.43 % 
+Wednesday                509 commits         █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
+Thursday                 482 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
+Friday                   389 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+Saturday                 80 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Sunday                   182 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+TypeScript               2 hrs 1 min         ███████████░░░░░░░░░░░░░░   45.18 % 
+JavaScript               44 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
+JSON                     44 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+Git Config               16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+HTML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+
+🔥 Editors: 
+VS Code                  3 hrs 12 mins       ██████████████████░░░░░░░   71.82 % 
+Claude Code              1 hr 15 mins        ███████░░░░░░░░░░░░░░░░░░   28.18 % 
+
+🐱‍💻 Projects: 
+savart-utility-frontend  2 hrs 7 mins        ████████████░░░░░░░░░░░░░   47.68 % 
+pal-save-bridge          1 hr 9 mins         ██████░░░░░░░░░░░░░░░░░░░   25.86 % 
+savart-website-admin     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+design_handoff_palworld_s28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+savart-website           6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+
+💻 Operating System: 
+Mac                      4 hrs 27 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -50,5 +100,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/HuseinHQ/HuseinHQ/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 18:20:19 UTC
+ Last Updated on 25/07/2026 18:00:36 UTC
 <!--END_SECTION:waka-->
