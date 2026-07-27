@@ -19,7 +19,9 @@ My name is Muhammad Husein Al Hakim
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C311%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C267%20hrs%2027%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-90%20hrs%2017%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
@@ -83,6 +85,30 @@ savart-website           6 mins              █░░░░░░░░░░�
 Mac                      4 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 1 hr 40 mins (37.37%)
+
+✍️ 2,834 lines written by AI, 87 lines written by hand (97.02% AI-written)
+
+🔤 31,276,869 Input Tokens, 144,535 Output Tokens
+
+💵 $143.14 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 22 AI Prompts
+
+Opus                     2,690 lines         ███████████████████████░░   93.05 % 
+Sonnet                   201 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 97.02% of written lines came from AI
+📝 Concise Prompter — average 466 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 4.49% of changed lines were hand-edited
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -100,5 +126,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/HuseinHQ/HuseinHQ/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 18:03:44 UTC
+ Last Updated on 27/07/2026 18:28:00 UTC
 <!--END_SECTION:waka-->
