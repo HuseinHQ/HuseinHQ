@@ -19,7 +19,7 @@ My name is Muhammad Husein Al Hakim
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C283%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C284%20hrs%2013%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-97%20hrs%2039%20mins-blue?style=flat)
 
@@ -64,49 +64,49 @@ Sunday                   182 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               5 hrs 8 mins        ██████████████████░░░░░░░   71.86 % 
-Docker                   32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
-Other                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
-YAML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
-Bash                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+TypeScript               5 hrs 26 mins       █████████████░░░░░░░░░░░░   51.41 % 
+Kotlin                   1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+JSON                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+Other                    39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+Docker                   32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 8 mins        █████████████████████████   100.00 % 
+VS Code                  10 hrs 35 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-fleet-management         1 hr 53 mins        ███████░░░░░░░░░░░░░░░░░░   26.44 % 
-savart-website-admin     1 hr 34 mins        █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
-savart-vehicle-management1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-savart-rag-service-gpu   37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
-webapp                   26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+savart-apps              3 hrs               ███████░░░░░░░░░░░░░░░░░░   28.41 % 
+savart-app-ble           1 hr 58 mins        █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
+fleet-management         1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
+savart-vehicle-management1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+savart-rag-service-gpu   37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
 
 💻 Operating System: 
-Mac                      5 hrs 38 mins       ████████████████████░░░░░   78.92 % 
-WSL                      1 hr 30 mins        █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
+Mac                      9 hrs 5 mins        █████████████████████░░░░   85.78 % 
+WSL                      1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 3 mins (42.81%)
+⏱ AI Coding Time: 3 hrs 29 mins (33.04%)
 
-✍️ 1,360 lines written by AI, 1,660 lines written by hand (45.03% AI-written)
+✍️ 890 lines written by AI, 1,516 lines written by hand (36.99% AI-written)
 
 🔤 40,738 Input Tokens, 296 Output Tokens
 
 💵 $134.82 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 34 AI Prompts
+🧠 7 AI Sessions, 37 AI Prompts
 
-Github-Copilot           1,360 lines         ████████████████████████░   97.70 % 
-Opus                     32 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+Github-Copilot           941 lines           ████████████████████████░   96.71 % 
+Opus                     32 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 45.03% of written lines came from AI
-📄 Detailed Prompter — average 807 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 75.3% of changed lines were hand-edited
+⚖️ Balanced with AI — 36.99% of written lines came from AI
+📄 Detailed Prompter — average 694 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 84.43% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -126,5 +126,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/HuseinHQ/HuseinHQ/main/assets/bar_graph.png)
 
 
- Last Updated on 11/08/2026 18:00:50 UTC
+ Last Updated on 12/08/2026 18:00:07 UTC
 <!--END_SECTION:waka-->
