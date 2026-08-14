@@ -23,7 +23,7 @@ My name is Muhammad Husein Al Hakim
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-98%20hrs%2052%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -64,49 +64,49 @@ Sunday                   182 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               5 hrs 24 mins       █████████████░░░░░░░░░░░░   50.04 % 
-Kotlin                   1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-JSON                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-Other                    40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
-YAML                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+TypeScript               5 hrs 43 mins       ██████████░░░░░░░░░░░░░░░   38.43 % 
+Kotlin                   2 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
+JSON                     1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+Astro                    1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+Other                    44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 48 mins      █████████████████████████   100.00 % 
+VS Code                  14 hrs 52 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-savart-apps              3 hrs               ███████░░░░░░░░░░░░░░░░░░   27.84 % 
-savart-app-ble           1 hr 58 mins        █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
-fleet-management         1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
-savart-vehicle-management1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-savart-rag-service-gpu   52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+savart-app-ble           3 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   25.91 % 
+savart-apps              3 hrs               █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
+webapp                   2 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
+website-ciwi             1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+savart-vehicle-management1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
 
 💻 Operating System: 
-Mac                      9 hrs 2 mins        █████████████████████░░░░   83.73 % 
-WSL                      1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
+Mac                      13 hrs 7 mins       ██████████████████████░░░   88.19 % 
+WSL                      1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 30 mins (32.51%)
+⏱ AI Coding Time: 3 hrs 48 mins (25.59%)
 
-✍️ 890 lines written by AI, 1,551 lines written by hand (36.46% AI-written)
+✍️ 889 lines written by AI, 2,503 lines written by hand (26.21% AI-written)
 
 🔤 40,738 Input Tokens, 296 Output Tokens
 
 💵 $134.82 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 39 AI Prompts
+🧠 9 AI Sessions, 36 AI Prompts
 
-Github-Copilot           941 lines           ████████████████████████░   96.71 % 
+Github-Copilot           940 lines           ████████████████████████░   96.71 % 
 Opus                     32 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 36.46% of written lines came from AI
-📄 Detailed Prompter — average 722 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 84.57% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 26.21% of written lines came from AI
+📄 Detailed Prompter — average 832 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 83.58% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -126,5 +126,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/HuseinHQ/HuseinHQ/main/assets/bar_graph.png)
 
 
- Last Updated on 13/08/2026 18:01:01 UTC
+ Last Updated on 14/08/2026 17:55:16 UTC
 <!--END_SECTION:waka-->
