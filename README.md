@@ -64,50 +64,50 @@ Sunday                   182 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               5 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   36.21 % 
-Kotlin                   3 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
-Astro                    1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-JSON                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
-Other                    44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+TypeScript               5 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   40.40 % 
+Kotlin                   3 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
+Astro                    1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+JSON                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+CSS                      39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 31 mins      █████████████████████████   99.96 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+VS Code                  13 hrs              █████████████████████████   99.95 % 
+Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🐱‍💻 Projects: 
-savart-app-ble           4 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   32.15 % 
-webapp                   3 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
-savart-apps              2 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
-website-ciwi             1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-savart-rag-service-gpu   52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+savart-app-ble           4 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   35.87 % 
+webapp                   3 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   23.70 % 
+savart-apps              2 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
+website-ciwi             1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+savart-rag-service-gpu   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 
 💻 Operating System: 
-Mac                      12 hrs 46 mins      ██████████████████████░░░   87.90 % 
-WSL                      1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+Mac                      12 hrs 46 mins      █████████████████████████   98.06 % 
+WSL                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 24 mins (23.43%)
+⏱ AI Coding Time: 2 hrs 52 mins (22.12%)
 
-✍️ 644 lines written by AI, 2,265 lines written by hand (22.14% AI-written)
+✍️ 644 lines written by AI, 2,223 lines written by hand (22.46% AI-written)
 
 🔤 41,739 Input Tokens, 186 Output Tokens
 
 💵 $134.82 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 31 AI Prompts
+🧠 10 AI Sessions, 23 AI Prompts
 
 Github-Copilot           695 lines           ████████████████████████░   95.60 % 
 Opus                     32 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 22.14% of written lines came from AI
-📄 Detailed Prompter — average 938 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 87.33% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 22.46% of written lines came from AI
+📝 Concise Prompter — average 353 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 87.16% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -127,5 +127,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/HuseinHQ/HuseinHQ/main/assets/bar_graph.png)
 
 
- Last Updated on 17/08/2026 17:36:56 UTC
+ Last Updated on 18/08/2026 17:29:20 UTC
 <!--END_SECTION:waka-->
