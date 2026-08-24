@@ -19,7 +19,7 @@ My name is Muhammad Husein Al Hakim
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C305%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C305%20hrs%2021%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-104%20hrs%2048%20mins-blue?style=flat)
 
@@ -64,33 +64,33 @@ Sunday                   182 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               9 hrs 25 mins       █████████████████░░░░░░░░   69.49 % 
-Python                   1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-Markdown                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-CSS                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+TypeScript               9 hrs 25 mins       █████████████████░░░░░░░░   68.18 % 
+Python                   1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+Markdown                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+CSS                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 34 mins      █████████████████████████   100.00 % 
+VS Code                  13 hrs 49 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-webapp                   6 hrs 11 mins       ███████████░░░░░░░░░░░░░░   45.64 % 
-savart-vehicle-management1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-skripsi-deteksi-penyakit-1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-savart-utility-frontend  1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-savart-team              1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+webapp                   6 hrs 11 mins       ███████████░░░░░░░░░░░░░░   44.78 % 
+savart-vehicle-management1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+skripsi-deteksi-penyakit-1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+savart-utility-frontend  1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+savart-team              1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
 
 💻 Operating System: 
-Mac                      11 hrs 27 mins      █████████████████████░░░░   84.42 % 
-WSL                      2 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+Mac                      11 hrs 43 mins      █████████████████████░░░░   84.72 % 
+WSL                      2 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 25 mins (39.99%)
+⏱ AI Coding Time: 5 hrs 25 mins (39.24%)
 
-✍️ 417 lines written by AI, 2,499 lines written by hand (14.3% AI-written)
+✍️ 417 lines written by AI, 2,500 lines written by hand (14.3% AI-written)
 
 🔤 694,808 Input Tokens, 266,334 Output Tokens
 
@@ -105,7 +105,7 @@ Deepseek                 0 lines             ░░░░░░░░░░░�
 🧑‍💻 Mostly Hands-On — 14.3% of written lines came from AI
 📚 Verbose Prompter — average 1,525 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 89.3% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 89.31% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -125,5 +125,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/HuseinHQ/HuseinHQ/main/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2026 17:22:50 UTC
+ Last Updated on 24/08/2026 17:32:33 UTC
 <!--END_SECTION:waka-->
