@@ -19,11 +19,11 @@ My name is Muhammad Husein Al Hakim
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C305%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C305%20hrs%2026%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-104%20hrs%2048%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-104%20hrs%2056%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -64,31 +64,31 @@ Sunday                   182 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               9 hrs 25 mins       █████████████████░░░░░░░░   68.18 % 
-Python                   1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
-Markdown                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
-CSS                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
-JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+TypeScript               9 hrs 25 mins       █████████████████░░░░░░░░   67.59 % 
+Python                   1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+Markdown                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+CSS                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 49 mins      █████████████████████████   100.00 % 
+VS Code                  13 hrs 57 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-webapp                   6 hrs 11 mins       ███████████░░░░░░░░░░░░░░   44.78 % 
-savart-vehicle-management1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-skripsi-deteksi-penyakit-1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-savart-utility-frontend  1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
-savart-team              1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+webapp                   6 hrs 11 mins       ███████████░░░░░░░░░░░░░░   44.40 % 
+savart-vehicle-management1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+skripsi-deteksi-penyakit-1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+savart-utility-frontend  1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+savart-team              1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
 
 💻 Operating System: 
-Mac                      11 hrs 43 mins      █████████████████████░░░░   84.72 % 
-WSL                      2 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
+Mac                      11 hrs 43 mins      █████████████████████░░░░   83.99 % 
+WSL                      2 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 25 mins (39.24%)
+⏱ AI Coding Time: 5 hrs 32 mins (39.76%)
 
 ✍️ 417 lines written by AI, 2,500 lines written by hand (14.3% AI-written)
 
@@ -96,15 +96,15 @@ WSL                      2 hrs 6 mins        ████░░░░░░░�
 
 💵 $53.90 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 64 AI Prompts
+🧠 21 AI Sessions, 74 AI Prompts
 
 Github-Copilot           438 lines           █████████████████████████   100.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 14.3% of written lines came from AI
-📚 Verbose Prompter — average 1,525 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📄 Detailed Prompter — average 1,479 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🔍 Hands-On Reviewer — 89.31% of changed lines were hand-edited
 ```
 
@@ -125,5 +125,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/HuseinHQ/HuseinHQ/main/assets/bar_graph.png)
 
 
- Last Updated on 24/08/2026 17:32:33 UTC
+ Last Updated on 25/08/2026 17:33:28 UTC
 <!--END_SECTION:waka-->
