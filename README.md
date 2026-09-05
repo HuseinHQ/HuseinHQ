@@ -64,53 +64,54 @@ Sunday                   182 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               16 hrs 29 mins      ████████████████░░░░░░░░░   65.66 % 
-Other                    3 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-Python                   59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-Markdown                 53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-Go                       48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+TypeScript               18 hrs 58 mins      █████████████████░░░░░░░░   69.71 % 
+Other                    2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+JSON                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+Markdown                 52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Go                       48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 25 mins      ██████████████████░░░░░░░   73.29 % 
-Claude Code              6 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   26.62 % 
-Hermes                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+VS Code                  19 hrs 58 mins      ██████████████████░░░░░░░   73.39 % 
+Claude Code              7 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   26.04 % 
+Hermes                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Codex Vscode             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🐱‍💻 Projects: 
-savart-vehicle-management10 hrs 23 mins      ██████████░░░░░░░░░░░░░░░   41.34 % 
-webapp                   2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
-savart-hub               2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-savart-app-ble           1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-savart-apps              1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+savart-vehicle-management10 hrs 18 mins      █████████░░░░░░░░░░░░░░░░   37.86 % 
+webapp                   3 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+savart-apps              3 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
+savart-hub               2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+savart-team              1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
 
 💻 Operating System: 
-Mac                      21 hrs 48 mins      ██████████████████████░░░   86.79 % 
-WSL                      3 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+Mac                      23 hrs 53 mins      ██████████████████████░░░   87.81 % 
+WSL                      3 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 4 mins (48.06%)
+⏱ AI Coding Time: 12 hrs 34 mins (46.18%)
 
-✍️ 5,544 lines written by AI, 3,422 lines written by hand (61.83% AI-written)
+✍️ 5,932 lines written by AI, 3,472 lines written by hand (63.08% AI-written)
 
-🔤 8,825,608 Input Tokens, 1,337,347 Output Tokens
+🔤 6,117,296 Input Tokens, 1,321,631 Output Tokens
 
-💵 $192.77 Estimated AI Cost This Week
+💵 $146.93 Estimated AI Cost This Week
 
-🧠 35 AI Sessions, 162 AI Prompts
+🧠 37 AI Sessions, 153 AI Prompts
 
-Opus                     3,670 lines         ███████████████░░░░░░░░░░   58.51 % 
-Sonnet                   2,186 lines         █████████░░░░░░░░░░░░░░░░   34.85 % 
-Hermes                   414 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+Opus                     4,323 lines         █████████████████░░░░░░░░   66.04 % 
+Sonnet                   1,810 lines         ███████░░░░░░░░░░░░░░░░░░   27.65 % 
+Hermes                   411 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
 Haiku                    2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 M                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 61.83% of written lines came from AI
-📝 Concise Prompter — average 430 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 81.54% of changed lines were hand-edited
+⚖️ Balanced with AI — 63.08% of written lines came from AI
+📝 Concise Prompter — average 474 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 81.09% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -130,5 +131,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/HuseinHQ/HuseinHQ/main/assets/bar_graph.png)
 
 
- Last Updated on 04/09/2026 19:22:28 UTC
+ Last Updated on 05/09/2026 18:51:29 UTC
 <!--END_SECTION:waka-->
