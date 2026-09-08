@@ -23,7 +23,7 @@ My name is Muhammad Husein Al Hakim
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-130%20hrs%2039%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -131,5 +131,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/HuseinHQ/HuseinHQ/main/assets/bar_graph.png)
 
 
- Last Updated on 07/09/2026 20:26:34 UTC
+ Last Updated on 08/09/2026 19:48:55 UTC
 <!--END_SECTION:waka-->
