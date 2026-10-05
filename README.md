@@ -19,9 +19,9 @@ My name is Muhammad Husein Al Hakim
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C399%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C403%20hrs%2010%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-158%20hrs%2015%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-158%20hrs%2028%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -64,34 +64,34 @@ Sunday                   182 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               7 hrs 51 mins       ███████████████████░░░░░░   77.64 % 
-Bash                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-JSON                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-Kotlin                   33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+TypeScript               10 hrs 35 mins      █████████████████████░░░░   82.40 % 
+Bash                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+JSON                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+Kotlin                   33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 33 mins       ████████████████░░░░░░░░░   64.82 % 
-Claude Code              3 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   33.86 % 
-Codex Vscode             8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+VS Code                  9 hrs 17 mins       ██████████████████░░░░░░░   72.31 % 
+Claude Code              3 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   26.65 % 
+Codex Vscode             8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 
 🐱‍💻 Projects: 
-webapp                   3 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   32.01 % 
-savart-apps              2 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   25.15 % 
-savart-website           1 hr 59 mins        █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
-savart-app-ble           1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
-ilms-web                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+webapp                   5 hrs 58 mins       ████████████░░░░░░░░░░░░░   46.49 % 
+savart-apps              2 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
+savart-website           1 hr 59 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
+savart-app-ble           1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+ilms-web                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
 
 💻 Operating System: 
-Mac                      10 hrs 6 mins       █████████████████████████   100.00 % 
+Mac                      12 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 21 mins (43.09%)
+⏱ AI Coding Time: 4 hrs 21 mins (33.91%)
 
-✍️ 3,024 lines written by AI, 199 lines written by hand (93.83% AI-written)
+✍️ 3,024 lines written by AI, 268 lines written by hand (91.86% AI-written)
 
 🔤 3,215,440 Input Tokens, 398,568 Output Tokens
 
@@ -105,10 +105,10 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.83% of written lines came from AI
+🤖 AI-Driven — 91.86% of written lines came from AI
 📝 Concise Prompter — average 482 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 8.03% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 87.47% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -128,5 +128,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/HuseinHQ/HuseinHQ/main/assets/bar_graph.png)
 
 
- Last Updated on 04/10/2026 19:59:04 UTC
+ Last Updated on 05/10/2026 23:08:22 UTC
 <!--END_SECTION:waka-->
