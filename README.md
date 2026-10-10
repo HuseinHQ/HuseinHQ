@@ -19,11 +19,11 @@ My name is Muhammad Husein Al Hakim
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C410%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C412%20hrs%2010%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-161%20hrs%2057%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-163%20hrs%205%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -64,51 +64,54 @@ Sunday                   182 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               11 hrs 10 mins      ████████████████████░░░░░   79.45 % 
-Kotlin                   1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
-Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
-JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+TypeScript               9 hrs 34 mins       ███████████████████░░░░░░   77.06 % 
+Kotlin                   1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+Other                    41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+Markdown                 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 10 mins       ████████████████░░░░░░░░░   65.23 % 
-Claude Code              4 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   32.61 % 
-Codex Vscode             18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+VS Code                  8 hrs 36 mins       █████████████████░░░░░░░░   69.35 % 
+Claude Code              3 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   26.48 % 
+Codex Vscode             21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Hermes                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 
 🐱‍💻 Projects: 
-webapp                   7 hrs 26 mins       █████████████░░░░░░░░░░░░   52.86 % 
-savart-website           3 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   25.84 % 
-savart-app-ble           1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
-savart-apps              1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
-buatkan-saya-kata-kata-ul9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+webapp                   5 hrs 30 mins       ███████████░░░░░░░░░░░░░░   44.35 % 
+savart-website           2 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
+savart-apps              2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
+savart-app-ble           1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+ini                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 
 💻 Operating System: 
-Mac                      14 hrs 4 mins       █████████████████████████   100.00 % 
+Mac                      12 hrs 8 mins       ████████████████████████░   97.74 % 
+Windows                  16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 54 mins (41.94%)
+⏱ AI Coding Time: 4 hrs 47 mins (38.57%)
 
-✍️ 4,098 lines written by AI, 224 lines written by hand (94.82% AI-written)
+✍️ 2,154 lines written by AI, 238 lines written by hand (90.05% AI-written)
 
-🔤 3,373,419 Input Tokens, 392,509 Output Tokens
+🔤 1,903,305 Input Tokens, 304,268 Output Tokens
 
-💵 $33.83 Estimated AI Cost This Week
+💵 $18.42 Estimated AI Cost This Week
 
-🧠 45 AI Sessions, 70 AI Prompts
+🧠 26 AI Sessions, 67 AI Prompts
 
-Opus                     3,939 lines         ███████████████████████░░   93.03 % 
-Sonnet                   295 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+Opus                     2,092 lines         ███████████████████████░░   92.16 % 
+Sonnet                   178 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.82% of written lines came from AI
-📄 Detailed Prompter — average 785 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 84.07% of changed lines were hand-edited
+🤖 AI-Driven — 90.05% of written lines came from AI
+📄 Detailed Prompter — average 831 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 91.36% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -128,5 +131,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/HuseinHQ/HuseinHQ/main/assets/bar_graph.png)
 
 
- Last Updated on 08/10/2026 21:54:54 UTC
+ Last Updated on 10/10/2026 20:32:40 UTC
 <!--END_SECTION:waka-->
