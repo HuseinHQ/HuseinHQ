@@ -64,53 +64,51 @@ Sunday                   182 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               4 hrs 50 mins       ██████████████░░░░░░░░░░░   55.37 % 
-Bash                     1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-JSON                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Kotlin                   45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-Markdown                 38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+TypeScript               4 hrs 22 mins       █████████████░░░░░░░░░░░░   51.35 % 
+Bash                     1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+Kotlin                   59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+JSON                     52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+Markdown                 41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 44 mins       ██████████████░░░░░░░░░░░   54.27 % 
-Claude Code              3 hrs 44 mins       ███████████░░░░░░░░░░░░░░   42.75 % 
-Codex Vscode             11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-Hermes                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+VS Code                  4 hrs 41 mins       ██████████████░░░░░░░░░░░   55.13 % 
+Claude Code              3 hrs 49 mins       ███████████░░░░░░░░░░░░░░   44.86 % 
+Hermes                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-savart-apps              6 hrs 19 mins       ██████████████████░░░░░░░   72.31 % 
-webapp                   1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
-savart-app-ble           47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
-savart-website           11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
-ini                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+savart-apps              6 hrs 20 mins       ███████████████████░░░░░░   74.49 % 
+webapp                   1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+savart-app-ble           1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+savart-website           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 💻 Operating System: 
-Mac                      8 hrs 37 mins       █████████████████████████   98.68 % 
-Windows                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+Mac                      8 hrs 29 mins       █████████████████████████   99.70 % 
+Windows                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 30 mins (51.56%)
+⏱ AI Coding Time: 4 hrs 10 mins (48.98%)
 
-✍️ 4,260 lines written by AI, 194 lines written by hand (95.64% AI-written)
+✍️ 4,381 lines written by AI, 84 lines written by hand (98.12% AI-written)
 
-🔤 2,897,332 Input Tokens, 394,915 Output Tokens
+🔤 3,749,168 Input Tokens, 390,334 Output Tokens
 
-💵 $39.93 Estimated AI Cost This Week
+💵 $44.89 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 60 AI Prompts
+🧠 9 AI Sessions, 44 AI Prompts
 
-Opus                     4,262 lines         █████████████████████████   100.00 % 
+Opus                     4,383 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.64% of written lines came from AI
-📄 Detailed Prompter — average 840 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 4.67% of changed lines were hand-edited
+🤖 AI-Driven — 98.12% of written lines came from AI
+📄 Detailed Prompter — average 1,001 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 2.12% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -130,5 +128,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/HuseinHQ/HuseinHQ/main/assets/bar_graph.png)
 
 
- Last Updated on 16/10/2026 19:52:43 UTC
+ Last Updated on 17/10/2026 19:05:31 UTC
 <!--END_SECTION:waka-->
