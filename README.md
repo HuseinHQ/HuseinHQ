@@ -40,21 +40,21 @@ My name is Muhammad Husein Al Hakim
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                632 commits         ██████░░░░░░░░░░░░░░░░░░░   22.69 % 
-🌆 Daytime                1672 commits        ███████████████░░░░░░░░░░   60.04 % 
-🌃 Evening                350 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-🌙 Night                  131 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+🌞 Morning                647 commits         ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
+🌆 Daytime                1681 commits        ███████████████░░░░░░░░░░   59.84 % 
+🌃 Evening                350 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+🌙 Night                  131 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   441 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
-Tuesday                  651 commits         ██████░░░░░░░░░░░░░░░░░░░   23.38 % 
-Wednesday                511 commits         █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
-Thursday                 517 commits         █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
-Friday                   403 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
-Saturday                 80 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
-Sunday                   182 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+Monday                   441 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
+Tuesday                  654 commits         ██████░░░░░░░░░░░░░░░░░░░   23.28 % 
+Wednesday                511 commits         █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
+Thursday                 535 commits         █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+Friday                   406 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+Saturday                 80 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+Sunday                   182 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
 ```
 
 
@@ -64,50 +64,46 @@ Sunday                   182 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               4 hrs 22 mins       █████████████░░░░░░░░░░░░   51.35 % 
-Bash                     1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
-Kotlin                   59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
-JSON                     52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
-Markdown                 41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+TypeScript               4 hrs 22 mins       █████████████░░░░░░░░░░░░   51.51 % 
+Bash                     1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Kotlin                   59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+JSON                     52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+Markdown                 41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 41 mins       ██████████████░░░░░░░░░░░   55.13 % 
-Claude Code              3 hrs 49 mins       ███████████░░░░░░░░░░░░░░   44.86 % 
-Hermes                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+VS Code                  4 hrs 40 mins       ██████████████░░░░░░░░░░░   55.00 % 
+Claude Code              3 hrs 49 mins       ███████████░░░░░░░░░░░░░░   45.00 % 
 
 🐱‍💻 Projects: 
-savart-apps              6 hrs 20 mins       ███████████████████░░░░░░   74.49 % 
-webapp                   1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-savart-app-ble           1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-savart-website           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+savart-apps              6 hrs 20 mins       ███████████████████░░░░░░   74.71 % 
+webapp                   1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+savart-app-ble           1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+savart-website           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 
 💻 Operating System: 
-Mac                      8 hrs 29 mins       █████████████████████████   99.70 % 
-Windows                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Mac                      8 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 10 mins (48.98%)
+⏱ AI Coding Time: 4 hrs 8 mins (48.82%)
 
 ✍️ 4,381 lines written by AI, 84 lines written by hand (98.12% AI-written)
 
-🔤 3,749,168 Input Tokens, 390,334 Output Tokens
+🔤 3,715,343 Input Tokens, 387,561 Output Tokens
 
-💵 $44.89 Estimated AI Cost This Week
+💵 $44.83 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 44 AI Prompts
+🧠 7 AI Sessions, 42 AI Prompts
 
 Opus                     4,383 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 98.12% of written lines came from AI
-📄 Detailed Prompter — average 1,001 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📄 Detailed Prompter — average 889 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 2.12% of changed lines were hand-edited
 ```
 
@@ -128,5 +124,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/HuseinHQ/HuseinHQ/main/assets/bar_graph.png)
 
 
- Last Updated on 17/10/2026 19:05:31 UTC
+ Last Updated on 18/10/2026 19:17:45 UTC
 <!--END_SECTION:waka-->
