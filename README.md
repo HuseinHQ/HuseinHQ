@@ -64,47 +64,47 @@ Sunday                   182 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               4 hrs 29 mins       █████████████░░░░░░░░░░░░   52.17 % 
-Bash                     1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-Kotlin                   59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-JSON                     52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
-Markdown                 41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+TypeScript               2 hrs 42 mins       ████████████░░░░░░░░░░░░░   47.33 % 
+Bash                     57 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
+JSON                     46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
+Markdown                 38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+Kotlin                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 40 mins       ██████████████░░░░░░░░░░░   54.25 % 
-Claude Code              3 hrs 56 mins       ███████████░░░░░░░░░░░░░░   45.75 % 
+VS Code                  3 hrs 14 mins       ██████████████░░░░░░░░░░░   56.56 % 
+Claude Code              2 hrs 29 mins       ███████████░░░░░░░░░░░░░░   43.44 % 
 
 🐱‍💻 Projects: 
-savart-apps              6 hrs 20 mins       ██████████████████░░░░░░░   73.69 % 
-webapp                   1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-savart-app-ble           1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-savart-website           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+savart-apps              4 hrs 13 mins       ██████████████████░░░░░░░   73.76 % 
+webapp                   1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
+savart-app-ble           20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
+savart-website           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Mac                      8 hrs 36 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 15 mins (49.52%)
+⏱ AI Coding Time: 2 hrs 38 mins (46.32%)
 
-✍️ 4,381 lines written by AI, 84 lines written by hand (98.12% AI-written)
+✍️ 2,057 lines written by AI, 55 lines written by hand (97.4% AI-written)
 
-🔤 3,758,244 Input Tokens, 417,518 Output Tokens
+🔤 2,902,475 Input Tokens, 271,184 Output Tokens
 
-💵 $49.08 Estimated AI Cost This Week
+💵 $38.85 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 42 AI Prompts
+🧠 6 AI Sessions, 26 AI Prompts
 
-Opus                     4,383 lines         █████████████████████████   100.00 % 
+Opus                     2,059 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.12% of written lines came from AI
-📄 Detailed Prompter — average 889 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 2.12% of changed lines were hand-edited
+🤖 AI-Driven — 97.4% of written lines came from AI
+📄 Detailed Prompter — average 1,186 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 2.88% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -124,5 +124,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/HuseinHQ/HuseinHQ/main/assets/bar_graph.png)
 
 
- Last Updated on 19/10/2026 21:25:24 UTC
+ Last Updated on 20/10/2026 20:23:06 UTC
 <!--END_SECTION:waka-->
