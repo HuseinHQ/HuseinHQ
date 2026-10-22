@@ -19,9 +19,9 @@ My name is Muhammad Husein Al Hakim
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C423%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C426%20hrs-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-169%20hrs%2017%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-170%20hrs%2042%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -29,7 +29,7 @@ My name is Muhammad Husein Al Hakim
 
 > 📦 355.7 kB Used in GitHub's Storage 
  > 
-> 🏆 111 Contributions in the Year 2026
+> 🏆 112 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -40,21 +40,21 @@ My name is Muhammad Husein Al Hakim
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                647 commits         ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
-🌆 Daytime                1681 commits        ███████████████░░░░░░░░░░   59.84 % 
-🌃 Evening                350 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+🌞 Morning                647 commits         ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
+🌆 Daytime                1683 commits        ███████████████░░░░░░░░░░   59.87 % 
+🌃 Evening                350 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
 🌙 Night                  131 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   441 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
-Tuesday                  654 commits         ██████░░░░░░░░░░░░░░░░░░░   23.28 % 
-Wednesday                511 commits         █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
-Thursday                 535 commits         █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-Friday                   406 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+Monday                   441 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+Tuesday                  654 commits         ██████░░░░░░░░░░░░░░░░░░░   23.27 % 
+Wednesday                511 commits         █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Thursday                 537 commits         █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
+Friday                   406 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
 Saturday                 80 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
-Sunday                   182 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+Sunday                   182 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
 ```
 
 
@@ -64,48 +64,46 @@ Sunday                   182 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               5 hrs 7 mins        ███████████████░░░░░░░░░░   61.59 % 
-Bash                     1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-JSON                     50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-Markdown                 41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-Kotlin                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+TypeScript               5 hrs 43 mins       ███████████████████░░░░░░   77.49 % 
+JavaScript               31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+Kotlin                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 14 mins       ████████████████░░░░░░░░░   62.90 % 
-Claude Code              3 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   37.10 % 
+VS Code                  5 hrs 5 mins        █████████████████░░░░░░░░   68.84 % 
+Claude Code              2 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   31.16 % 
 
 🐱‍💻 Projects: 
-savart-apps              6 hrs 17 mins       ███████████████████░░░░░░   75.46 % 
-webapp                   1 hr 41 mins        █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
-savart-app-ble           21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
-savart-website           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+savart-apps              5 hrs 18 mins       ██████████████████░░░░░░░   71.83 % 
+webapp                   1 hr 41 mins        ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
+savart-app-ble           23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
 
 💻 Operating System: 
-Mac                      8 hrs 19 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 27 mins (53.6%)
+⏱ AI Coding Time: 4 hrs 13 mins (57.23%)
 
-✍️ 2,491 lines written by AI, 218 lines written by hand (91.95% AI-written)
+✍️ 681 lines written by AI, 173 lines written by hand (79.74% AI-written)
 
-🔤 3,286,307 Input Tokens, 364,269 Output Tokens
+🔤 2,344,105 Input Tokens, 310,664 Output Tokens
 
-💵 $39.42 Estimated AI Cost This Week
+💵 $28.38 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 61 AI Prompts
+🧠 7 AI Sessions, 60 AI Prompts
 
-Opus                     2,543 lines         █████████████████████████   99.88 % 
-Sonnet                   3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     740 lines           █████████████████████████   99.60 % 
+Sonnet                   3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.95% of written lines came from AI
-📝 Concise Prompter — average 488 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 9.01% of changed lines were hand-edited
+🤖 AI-Driven — 79.74% of written lines came from AI
+📄 Detailed Prompter — average 835 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 21.87% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -125,5 +123,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/HuseinHQ/HuseinHQ/main/assets/bar_graph.png)
 
 
- Last Updated on 21/10/2026 20:32:49 UTC
+ Last Updated on 22/10/2026 20:30:36 UTC
 <!--END_SECTION:waka-->
