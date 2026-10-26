@@ -19,9 +19,9 @@ My name is Muhammad Husein Al Hakim
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C430%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C430%20hrs%2028%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-172%20hrs%2027%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-172%20hrs%2033%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -64,46 +64,46 @@ Sunday                   182 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               8 hrs 16 mins       █████████████████████░░░░   84.17 % 
-JSON                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-Bash                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
-JavaScript               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
-Other                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+TypeScript               8 hrs 50 mins       █████████████████████░░░░   84.75 % 
+JSON                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+Bash                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+JavaScript               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+Other                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 4 mins        ██████████████████░░░░░░░   71.97 % 
-Claude Code              2 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   28.03 % 
+VS Code                  7 hrs 9 mins        █████████████████░░░░░░░░   68.60 % 
+Claude Code              3 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   31.40 % 
 
 🐱‍💻 Projects: 
-savart-apps              7 hrs 54 mins       ████████████████████░░░░░   80.53 % 
-webapp                   1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
-savart-app-ble           33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+savart-apps              8 hrs 10 mins       ████████████████████░░░░░   78.30 % 
+webapp                   1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+savart-app-ble           33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
 
 💻 Operating System: 
-Mac                      9 hrs 49 mins       █████████████████████████   100.00 % 
+Mac                      10 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 12 mins (53.06%)
+⏱ AI Coding Time: 5 hrs 45 mins (55.19%)
 
-✍️ 1,043 lines written by AI, 425 lines written by hand (71.05% AI-written)
+✍️ 1,612 lines written by AI, 425 lines written by hand (79.14% AI-written)
 
-🔤 2,248,579 Input Tokens, 360,854 Output Tokens
+🔤 2,673,602 Input Tokens, 393,637 Output Tokens
 
-💵 $29.14 Estimated AI Cost This Week
+💵 $31.99 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 65 AI Prompts
+🧠 10 AI Sessions, 67 AI Prompts
 
-Opus                     1,225 lines         █████████████████████████   99.76 % 
-Sonnet                   3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Opus                     1,803 lines         █████████████████████████   99.83 % 
+Sonnet                   3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 71.05% of written lines came from AI
-📄 Detailed Prompter — average 1,100 characters per prompt
+🤖 AI-Driven — 79.14% of written lines came from AI
+📄 Detailed Prompter — average 1,178 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 41.24% of changed lines were hand-edited
+🚀 High AI Trust — 32.41% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -123,5 +123,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/HuseinHQ/HuseinHQ/main/assets/bar_graph.png)
 
 
- Last Updated on 25/10/2026 19:31:29 UTC
+ Last Updated on 26/10/2026 21:25:32 UTC
 <!--END_SECTION:waka-->
